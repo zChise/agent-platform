@@ -2,7 +2,7 @@
 
 > 基于多 Agent 协作的智能工作流自动化平台，支持代码分析、测试执行、文档生成、代码审查等多类型 Agent 并行调度，内置实时监控 Dashboard。
 
-[![GitHub Pages](https://img.shields.io/badge/Demo-Live-brightgreen?logo=github)](https://zChise.github.io/agent-platform/)
+[![GitHub Pages](https://img.shields.io/badge/Demo-Live-brightgreen?logo=github)](https://zchise.github.io/agent-platform/)
 ![Tasks](https://img.shields.io/badge/Tasks-1284-blue)
 ![Success Rate](https://img.shields.io/badge/Success%20Rate-93.22%25-success)
 
@@ -18,7 +18,7 @@
 
 以下为平台监控 Dashboard 实时截图（需登录账号访问完整功能）：
 
-🔗 **[https://zChise.github.io/agent-platform/](https://zChise.github.io/agent-platform/)**
+🔗 **[https://zchise.github.io/agent-platform/](https://zchise.github.io/agent-platform/)**
 
 ## 技术栈
 
@@ -26,10 +26,11 @@
 - **图表库**：Chart.js 4.x
 - **部署**：GitHub Pages
 
+
 ## 快速开始
 
 ```bash
-git clone https://github.com/zChise/agent-platform.git
+git clone https://github.com/zchise/agent-platform.git
 cd agent-platform
 # 直接用浏览器打开 index.html 即可
 open index.html
